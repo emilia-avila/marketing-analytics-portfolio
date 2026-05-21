@@ -13,4 +13,4 @@ Marketing analytics projects focused on e-commerce performance, funnel analysis,
   Predictive model to identify which marketing leads are most likely to convert.
   Compares Logistic Regression vs Random Forest achieving AUC-ROC of 0.90.
 
-  📄 Notebook: lead_scoring.ipynb
+  📄 Notebook: lead_scoring_model.ipynb
